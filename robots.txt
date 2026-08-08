@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-te75yh.hokibet77mvz.cfd/sitemap.xml
